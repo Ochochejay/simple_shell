@@ -1,12 +1,6 @@
 #ifndef _SHELL_H_
 #define _SHELL_H_
 
-/*
- * File: shell.h
- * Authors: tewodros awedew
- *          messi zewdi
- */
-
 #include <fcntl.h>
 #include <signal.h>
 #include <sys/types.h>
